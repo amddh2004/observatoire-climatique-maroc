@@ -5,3 +5,4 @@ __pycache__/
 .venv/
 dbt/target/
 dbt/logs/
+config/airflow.cfg
